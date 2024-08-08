@@ -1,0 +1,13 @@
+{
+  "Index": {
+    "title": "Anglais ok "
+  },
+  "Form": {
+    "publishedAt": "Published Date",
+    "publishedDate": "Published Date",
+    "unPublishedAt": "Unpublished Date",
+    "title": "Titre",
+    "status": "Status",
+    "actions": "Actions"
+  }
+}
